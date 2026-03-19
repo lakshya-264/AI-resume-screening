@@ -1,0 +1,11 @@
+Alex Chen | Senior Frontend Engineer
+Email: alex@example.com
+
+Experience:
+- Frontend Lead at TechCorp (2019 - Present): Led frontend development using React and TypeScript for a high-traffic e-commerce platform. Mentored 3 junior developers. Migrated legacy REST APIs to GraphQL, improving data fetching efficiency by 40%. Implemented performance optimizations resulting in a perfect LightHouse score.
+- Web Developer at WebSolutions (2016 - 2019): Built responsive web applications using React and JavaScript. Used Redux for state management. 
+
+Education:
+- B.S. in Computer Science, State University.
+
+Skills: React, TypeScript, JavaScript, HTML/CSS, GraphQL, Redux, Node.js, AWS, Webpack.

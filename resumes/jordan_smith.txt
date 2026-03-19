@@ -1,0 +1,11 @@
+Jordan Smith | Software Engineer
+Email: jordan@example.com
+
+Experience:
+- Software Engineer at DataInc (2021 - Present): Developed internal data processing tools using Python and Django. Created some basic frontend dashboards using plain HTML, CSS, and jQuery. 
+- Junior Developer at StartUp (2019 - 2021): Maintained legacy PHP applications. Wrote basic SQL queries for reporting.
+
+Education:
+- Bootcamp Graduate, Coding Academy.
+
+Skills: Python, Django, HTML, CSS, jQuery, PHP, SQL, Git.
